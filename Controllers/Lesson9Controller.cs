@@ -17,7 +17,7 @@ namespace WebDz1.Controllers
 
             if (textik == finaltextik)
             {
-                ViewData["itog"] = ("Данная строка палидром");
+                ViewData["itog"] = ("Данная строка является палидромом");
             }
             else
             {
